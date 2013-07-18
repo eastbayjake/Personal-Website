@@ -26,6 +26,14 @@ body {
           box-shadow: none !important;
 }
 
+.well h1{
+  font-size: 36px;
+}
+
+.well p {
+  font-size: 18px;
+}
+
 .hero-unit {
   padding: 30px !important;
   margin-bottom: 30px !important;
@@ -45,7 +53,7 @@ body {
     padding:5px;
     margin:auto auto;
     width:250px;
-    height:290px;
+    height:250px;
 }
 
 .avatar img{
