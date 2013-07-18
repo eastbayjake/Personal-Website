@@ -6165,3 +6165,18 @@ a.badge:focus {
 .affix {
   position: fixed;
 }
+
+img .github {
+  width:30px;
+  height:30px;
+  background-position:-2px -2px;
+  display:block;
+  background-repeat:no-repeat;
+}
+
+img .linkedin {
+  width:33px;
+  height:30px;
+  background-position:-36px -0;
+  background-repeat:no-repeat;
+}
